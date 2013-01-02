@@ -1,6 +1,6 @@
-# Afterburner - Codeigniter Documentation Tool
+# Afterburner - CodeIgniter documentation tool
 
-A documentation content management tool built on Codeigniter and based on the existing User Guide
+A documentation content management tool built on CodeIgniter and based on the existing User Guide
 included with the framework.
 
 ## Requirements
